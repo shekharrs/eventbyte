@@ -42,7 +42,7 @@ const Contact = () => {
         <div className="banner">
           <div className="item">
             <h4>Address</h4>
-            <p>Any where, Any City, 4521</p>
+            <p>Mumbai, India, 0000</p>
           </div>
           <div className="item">
             <h4>Call Us</h4>
