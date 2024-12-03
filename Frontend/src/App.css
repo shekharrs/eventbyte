@@ -388,6 +388,7 @@ footer .banner .tag div button {
 .services {
   padding-top: 75px;
   padding-bottom: 75px;
+  cursor: pointer;
 }
 .services h2 {
   color: #000;
@@ -410,7 +411,6 @@ footer .banner .tag div button {
 .services .banner .item img {
   width: 100%;
   height: 100%;
-  cursor: pointer;
 }
 .services .banner .item h3 {
   position: absolute;
